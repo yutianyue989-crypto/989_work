@@ -1,6 +1,7 @@
 import random
 import sys
 
+
 """
 一个简单的终端小游戏合集
 包含：
