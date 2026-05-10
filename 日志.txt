@@ -1,0 +1,15 @@
+2026.5.10
+初步设置：
+编辑器-vscode
+编译器-python解释器
+仓库-github
+仓库命令集-git
+
+我想做Vibe_coding的步骤：
+1 把想法给ai
+2 让ai生成代码（生成已有的编译器）
+3 回到仓库 Vscode文件夹
+4 新建文件，后缀名： .py (对应相应的编辑器，此例子对应python）
+5 复制粘贴 代码进 VScode相应文件，control+ S保存，右上角小三角运行。
+6 运行不好把问题回给ai，重复修改代码至步骤1。
+7 运行良好，vscode界面左上角左列第三个按钮，changes当中有加号的修改就点，在message输入注释，蓝色部分下键中选择commit and push。
